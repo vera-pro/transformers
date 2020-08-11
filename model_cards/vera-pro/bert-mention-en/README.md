@@ -1,0 +1,1 @@
+BERT for entity mention detection in English. Trained on a modified version of [CONLL03](https://github.com/davidsbatista/NER-datasets/tree/master/CONLL2003) combined with the [Impresso](https://github.com/impresso/CLEF-HIPE-2020/tree/master/data) historical dataset 
